@@ -25,6 +25,14 @@ Hi, I'm Parmbir! 👋<br><br>I'm a first-year Computer Science student at Brunel
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+# 🛠️ Hands-On Experience:
+- **Machine Learning:** Training and deploying neural networks, image classification, NLP projects
+- **Robotics:** Working with ROS, sensor integration, autonomous navigation
+- **Computer Vision:** Real-time object detection, image processing with OpenCV
+- **Data Analysis:** Data cleaning, visualization, and statistical analysis
+- **Web Development:** Building interactive projects with HTML, CSS, and JavaScript
+- **Version Control:** Collaborative coding with Git and GitHub
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Valorz1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Valorz1&theme=dark&hide_border=false)<br/>
@@ -38,8 +46,8 @@ Hi, I'm Parmbir! 👋<br><br>I'm a first-year Computer Science student at Brunel
 - 🤝 Open to collaborations on AI, ML, and Robotics projects
 
 # 📫 Connect With Me:
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@your_tiktok_handle)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/your_instagram_handle/)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@nova_9901)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/val_or000/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Valorz1)
 
 Feel free to reach out if you'd like to collaborate, discuss tech, or just chat about coding!
