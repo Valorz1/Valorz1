@@ -11,6 +11,11 @@ I enjoy building practical software, exploring how systems work, and solving pro
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parmbir-nandha-940987315/)
 [![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Valorz1?tab=repositories)
 
+<br />
+
+<!-- Animated waves from your original video. Keep the GIF in assets/ when publishing. -->
+<img src="assets/animated-waves.gif" alt="Animated flowing wave lines on a dark background" width="100%" />
+
 </div>
 
 ---
