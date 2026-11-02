@@ -95,8 +95,8 @@ Contribute to student learning as a **PAL Leader** and to the university's cyber
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Valorz1&show_icons=true&hide_border=true&bg_color=181818&title_color=D91B24&text_color=F4F4F4&icon_color=D91B24" alt="Parmbir's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valorz1&layout=compact&hide_border=true&langs_count=6&bg_color=181818&title_color=D91B24&text_color=F4F4F4" alt="Most used languages across public GitHub repositories" />
+<img height="165" src="assets/stats.svg" alt="Parmbir's GitHub statistics" />
+<img height="165" src="assets/top-langs.svg" alt="Most used languages across public GitHub repositories" />
 
 </div>
 
