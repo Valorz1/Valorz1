@@ -8,11 +8,11 @@
 
 I like building useful software, understanding how systems break, and making things work better—whether that's a phishing analyser, a local AI assistant or a robot.
 
-[![2027 placement](https://img.shields.io/badge/OPEN_TO_PLACEMENTS-2027-D91B24?style=for-the-badge&labelColor=181818)](https://www.linkedin.com/in/parmbir-nandha-940987315/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parmbir-nandha-940987315/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_my_work-181818?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/Valorz1/my-portfolio)
+[![Open to placements from summer 2027](https://img.shields.io/badge/OPEN_TO_PLACEMENTS-SUMMER_2027-D91B24?style=for-the-badge&labelColor=181818)](https://www.linkedin.com/in/parmbir-nandha/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parmbir-nandha/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_my_work-181818?style=for-the-badge&logo=githubpages&logoColor=white)](https://valorz1.github.io/my-portfolio/)
 
-<img src="https://raw.githubusercontent.com/Valorz1/my-portfolio/main/assets/og-image.png" alt="A preview of my personal portfolio" width="85%" />
+<a href="https://valorz1.github.io/my-portfolio/"><img src="https://raw.githubusercontent.com/Valorz1/my-portfolio/main/assets/og-image.png" alt="A preview of my personal portfolio" width="85%" /></a>
 
 </div>
 
@@ -26,7 +26,7 @@ During an **information security internship at SCS Railways on the HS2 London Tu
 
 Outside of placements and coursework, I build security tools, APIs and local-first AI applications. I also help support the student community through my roles as a **PAL Leader** and **Co-founder and Treasurer of Brunel's Cyber Security Society**.
 
-- 🎯 **Seeking:** A 12-month placement in **2027** across cybersecurity, software engineering or related technical roles.
+- 🎯 **Seeking:** A 12-month placement from **summer 2027** in software engineering, AI or cybersecurity.
 - 🔐 **Interested in:** Application security, backend systems, identity, local AI and practical ML.
 - 🏆 **Proud of:** Microsoft recognition for our team's design and creativity at the **Hillingdon × Brunel Hackathon 2026**.
 - 🏔️ **Away from my desk:** A mountain view beats another window full of tabs.
@@ -38,7 +38,7 @@ A selection of things I've designed, built or worked on—individually and in te
 | Project | What it does | Stack / focus |
 | --- | --- | --- |
 | 🛡️ **[HookLine](https://github.com/Valorz1/hookline)** | Analyses phishing emails using authentication checks, suspicious link and attachment indicators, and explainable verdicts. | `Python` `Flask` `VirusTotal` `Email Security` |
-| 📚 **[The Archive](https://github.com/Valorz1/rag-chatbot)** | Local-first document Q&A with source citations, conversational retrieval and offline inference. | `Python` `FastAPI` `LlamaIndex` `ChromaDB` `Ollama` |
+| 📚 **[The Archive](https://github.com/Valorz1/rag-chatbot)** | Local-first document Q&A with source citations, conversational retrieval and local inference with Ollama. | `Python` `FastAPI` `LlamaIndex` `ChromaDB` `Ollama` |
 | 💷 **[NetValor](https://github.com/Valorz1/NetValor)** · *In development* | A UK personal finance learning platform with an AI assistant grounded in educational content. | `Next.js` `TypeScript` `FastAPI` `LangChain` |
 | 🏙️ **[Hillingdon ReportHub](https://github.com/Valorz1/Hillingdon-ReportHub)** | A council issue reporting and triage platform from a team hackathon; recognised by Microsoft. | `UI/UX` `Python` `Web Apps` `Teamwork` |
 | 🐛 **[UK Tick Tracker](https://github.com/Valorz1/uk-tick-tracker-backend)** | Backend for ingesting, cleaning, searching and reporting UK tick-sighting data, supported by automated tests. | `Python` `FastAPI` `SQLite` `pytest` |
@@ -47,7 +47,7 @@ A selection of things I've designed, built or worked on—individually and in te
 
 <div align="center">
 
-**[Explore my portfolio repository →](https://github.com/Valorz1/my-portfolio)** · **[Browse all repositories →](https://github.com/Valorz1?tab=repositories)**
+**[Visit my portfolio →](https://valorz1.github.io/my-portfolio/)** · **[Portfolio source →](https://github.com/Valorz1/my-portfolio)** · **[Browse all repositories →](https://github.com/Valorz1?tab=repositories)**
 
 </div>
 
@@ -59,7 +59,7 @@ A selection of things I've designed, built or worked on—individually and in te
 
 **Frameworks, backend and databases**
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,spring,react,nextjs,sqlite,postgres&theme=dark" alt="FastAPI, Flask, Spring, React, Next.js, SQLite and PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,nextjs,sqlite,postgres&theme=dark" alt="FastAPI, Flask, React, Next.js, SQLite and PostgreSQL" />
 
 **AI / retrieval**
 
@@ -100,15 +100,19 @@ Contribute to student learning as a **PAL Leader** and to the university's cyber
 
 </div>
 
+<p align="center">
+  <img src="assets/cliff-lighthouse-night.gif" alt="Cliff Lighthouse Night: animated ASCII art of a lighthouse sweeping its beam over the sea on a starry night" width="720">
+</p>
+
 ---
 
 <div align="center">
 
 ### Let's build something useful.
 
-I'm open to connecting with developers, collaborating on interesting ideas, and discussing **2027 placement opportunities**.
+I'm open to connecting with developers, collaborating on interesting ideas, and discussing **placement opportunities for summer 2027**.
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parmbir-nandha-940987315/)
+[![LinkedIn](https://img.shields.io/badge/Let's_connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parmbir-nandha/)
 [![GitHub](https://img.shields.io/badge/Explore_my_code-GitHub-181818?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Valorz1)
 [![Email](https://img.shields.io/badge/Email-Say_hello-D91B24?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nparmbir1@gmail.com)
 
