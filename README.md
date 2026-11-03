@@ -12,8 +12,6 @@ I like building useful software, understanding how systems break, and making thi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parmbir-nandha/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore_my_work-181818?style=for-the-badge&logo=githubpages&logoColor=white)](https://valorz1.github.io/my-portfolio/)
 
-<a href="https://valorz1.github.io/my-portfolio/"><img src="https://raw.githubusercontent.com/Valorz1/my-portfolio/main/assets/og-image.png" alt="A preview of my personal portfolio" width="85%" /></a>
-
 </div>
 
 ---
