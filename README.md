@@ -12,6 +12,10 @@ I like building useful software, understanding how systems break, and making thi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parmbir-nandha/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore_my_work-181818?style=for-the-badge&logo=githubpages&logoColor=white)](https://valorz1.github.io/my-portfolio/)
 
+<p align="center">
+  <img src="assets/cliff-lighthouse-night.gif" alt="Cliff Lighthouse Night: animated ASCII art of a lighthouse sweeping its beam over the sea on a starry night" width="720">
+</p>
+
 </div>
 
 ---
@@ -98,9 +102,7 @@ Contribute to student learning as a **PAL Leader** and to the university's cyber
 
 </div>
 
-<p align="center">
-  <img src="assets/cliff-lighthouse-night.gif" alt="Cliff Lighthouse Night: animated ASCII art of a lighthouse sweeping its beam over the sea on a starry night" width="720">
-</p>
+
 
 ---
 
