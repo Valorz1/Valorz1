@@ -4,23 +4,23 @@
   <clipPath id="bar"><rect x="24" y="56" width="332" height="10" rx="5"/></clipPath>
   <rect x="24" y="56" width="332" height="10" rx="5" fill="#272727"/>
   <g clip-path="url(#bar)">
-    <rect x="24.00" y="56" width="153.71" height="10" fill="#3572A5"/>
-    <rect x="177.71" y="56" width="87.61" height="10" fill="#E34C26"/>
-    <rect x="265.31" y="56" width="39.63" height="10" fill="#F1E05A"/>
-    <rect x="304.94" y="56" width="33.11" height="10" fill="#563D7C"/>
-    <rect x="338.05" y="56" width="17.47" height="10" fill="#B07219"/>
+    <rect x="24.00" y="56" width="154.60" height="10" fill="#3572A5"/>
+    <rect x="178.60" y="56" width="87.17" height="10" fill="#E34C26"/>
+    <rect x="265.77" y="56" width="39.43" height="10" fill="#F1E05A"/>
+    <rect x="305.20" y="56" width="32.94" height="10" fill="#563D7C"/>
+    <rect x="338.14" y="56" width="17.39" height="10" fill="#B07219"/>
     <rect x="355.53" y="56" width="0.47" height="10" fill="#384D54"/>
   </g>
   <circle cx="29" cy="93" r="5" fill="#3572A5"/>
-  <text x="40" y="98" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#BDBDBD">Python <tspan fill="#F4F4F4" font-weight="600">46.2%</tspan></text>
+  <text x="40" y="98" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#BDBDBD">Python <tspan fill="#F4F4F4" font-weight="600">46.5%</tspan></text>
   <circle cx="199" cy="93" r="5" fill="#E34C26"/>
-  <text x="210" y="98" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#BDBDBD">HTML <tspan fill="#F4F4F4" font-weight="600">26.4%</tspan></text>
+  <text x="210" y="98" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#BDBDBD">HTML <tspan fill="#F4F4F4" font-weight="600">26.2%</tspan></text>
   <circle cx="29" cy="119" r="5" fill="#F1E05A"/>
   <text x="40" y="124" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#BDBDBD">JavaScript <tspan fill="#F4F4F4" font-weight="600">11.9%</tspan></text>
   <circle cx="199" cy="119" r="5" fill="#563D7C"/>
-  <text x="210" y="124" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#BDBDBD">CSS <tspan fill="#F4F4F4" font-weight="600">10.0%</tspan></text>
+  <text x="210" y="124" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#BDBDBD">CSS <tspan fill="#F4F4F4" font-weight="600">9.9%</tspan></text>
   <circle cx="29" cy="145" r="5" fill="#B07219"/>
-  <text x="40" y="150" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#BDBDBD">Java <tspan fill="#F4F4F4" font-weight="600">5.3%</tspan></text>
+  <text x="40" y="150" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#BDBDBD">Java <tspan fill="#F4F4F4" font-weight="600">5.2%</tspan></text>
   <circle cx="199" cy="145" r="5" fill="#384D54"/>
   <text x="210" y="150" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#BDBDBD">Dockerfile <tspan fill="#F4F4F4" font-weight="600">0.1%</tspan></text>
 </svg>
