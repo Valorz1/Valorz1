@@ -6,10 +6,10 @@
   <text x="356" y="74" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#F4F4F4">14</text>
   <rect x="24" y="91" width="8" height="8" rx="2" fill="#D91B24"/>
   <text x="42" y="100" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#BDBDBD">Commits (public)</text>
-  <text x="356" y="100" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#F4F4F4">146</text>
+  <text x="356" y="100" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#F4F4F4">160</text>
   <rect x="24" y="117" width="8" height="8" rx="2" fill="#D91B24"/>
   <text x="42" y="126" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#BDBDBD">Pull requests</text>
-  <text x="356" y="126" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#F4F4F4">5</text>
+  <text x="356" y="126" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#F4F4F4">8</text>
   <rect x="24" y="143" width="8" height="8" rx="2" fill="#D91B24"/>
   <text x="42" y="152" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#BDBDBD">Stars earned</text>
   <text x="356" y="152" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#F4F4F4">2</text>
