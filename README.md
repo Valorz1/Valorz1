@@ -6,7 +6,7 @@
 
 **Second-year BSc Computer Science (AI) student at Brunel University of London**
 
-I like building useful software, understanding how systems break, and making things work better—whether that's a phishing analyser, a local AI assistant or a robot.
+I build useful software, dig into how systems break, and make things work better, whether that's a phishing analyser, a local AI assistant or a robot.
 
 [![Open to placements from summer 2027](https://img.shields.io/badge/OPEN_TO_PLACEMENTS-SUMMER_2027-D91B24?style=for-the-badge&labelColor=181818)](https://www.linkedin.com/in/parmbir-nandha/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parmbir-nandha/)
@@ -22,20 +22,18 @@ I like building useful software, understanding how systems break, and making thi
 
 ## 👨‍💻 About me
 
-I'm a **Computer Science (AI) student** who learns by turning an idea into something that can be tested and used. My interests sit where **software engineering, cybersecurity and applied AI** overlap.
-
-During an **information security internship at SCS Railways on the HS2 London Tunnels project**, I supported a passwordless authentication rollout for around 1,000 colleagues and worked with **Microsoft Entra ID** and **Defender** on security-related tasks.
-
-Outside of placements and coursework, I build security tools, APIs and local-first AI applications. I also help support the student community through my roles as a **PAL Leader** and **Co-founder and Treasurer of Brunel's Cyber Security Society**.
+I learn by turning an idea into something that can be tested and used. My interests sit where **software engineering, cybersecurity and applied AI** overlap.
 
 - 🎯 **Seeking:** A 12-month placement from **summer 2027** in software engineering, AI or cybersecurity.
+- 💼 **Experience:** Information security internship at **SCS Railways (HS2 London Tunnels)**, working with Microsoft Entra ID and Defender.
 - 🔐 **Interested in:** Application security, backend systems, identity, local AI and practical ML.
 - 🏆 **Proud of:** Microsoft recognition for our team's design and creativity at the **Hillingdon × Brunel Hackathon 2026**.
+- 🤝 **Community:** PAL Leader, and Co-founder and Treasurer of Brunel's Cyber Security Society.
 - 🏔️ **Away from my desk:** A mountain view beats another window full of tabs.
 
 ## 🚀 Featured projects
 
-A selection of things I've designed, built or worked on—individually and in teams.
+A selection of things I've designed, built or worked on, on my own and in teams.
 
 | Project | What it does | Stack / focus |
 | --- | --- | --- |
@@ -45,7 +43,7 @@ A selection of things I've designed, built or worked on—individually and in te
 | 🏙️ **[Hillingdon ReportHub](https://github.com/Valorz1/Hillingdon-ReportHub)** | A council issue reporting and triage platform from a team hackathon; recognised by Microsoft. | `UI/UX` `Python` `Web Apps` `Teamwork` |
 | 🐛 **[UK Tick Tracker](https://github.com/Valorz1/uk-tick-tracker-backend)** | Backend for ingesting, cleaning, searching and reporting UK tick-sighting data, supported by automated tests. | `Python` `FastAPI` `SQLite` `pytest` |
 | 🤖 **Spybot** | A Raspberry Pi SwiftBot application that delivers Morse-code messages, backed by requirements and hardware testing. | `Java` `JUnit` `Maven` `Raspberry Pi` |
-| 🎨 **[Brunel Cyber Security Society](https://brunelcs.org)** | Designed a responsive society website in Figma and collaborated with the committee on implementation. | `Figma` `UI/UX` `Responsive Design` |
+| 🌐 **[Brunel Cyber Security Society](https://brunelcs.org)** | Designed a responsive society website in Figma and collaborated with the committee on implementation. | `Figma` `UI/UX` `Responsive Design` |
 
 <div align="center">
 
@@ -76,14 +74,14 @@ A selection of things I've designed, built or worked on—individually and in te
 
 ## 🏆 Beyond the code
 
-**Information security · HS2 London Tunnels**  
-Supported a passwordless rollout for approximately **1,000 staff**, including documentation, user communications and troubleshooting. Gained experience with Microsoft Entra ID and Defender.
+**Information security intern · SCS Railways, HS2 London Tunnels**  
+Supported a passwordless authentication rollout for approximately **1,000 staff**, covering documentation, user communications and troubleshooting. Worked with Microsoft Entra ID and Defender on security-related tasks.
 
 **Hillingdon × Brunel Hackathon 2026**  
-Worked in a team of four on **ReportHub**, helping residents submit local issues and route them to the right council teams. I led UI/UX work, presented with the team and received **Microsoft recognition** for innovative design and creativity. I later revisited the project to improve its implementation.
+Worked in a team of four on **ReportHub**, which helps residents submit local issues and routes them to the right council teams. I led the UI/UX work, presented with the team and we received **Microsoft recognition** for innovative design and creativity. I later revisited the project to improve its implementation.
 
 **Leadership and community**  
-Contribute to student learning as a **PAL Leader** and to the university's cybersecurity community as a **Co-founder and Treasurer** of its Cyber Security Society.
+I support student learning as a **PAL Leader** and help run the university's cybersecurity community as **Co-founder and Treasurer** of the Cyber Security Society.
 
 ## 🌱 Currently exploring
 
@@ -101,8 +99,6 @@ Contribute to student learning as a **PAL Leader** and to the university's cyber
 <img height="165" src="assets/top-langs.svg" alt="Most used languages across public GitHub repositories" />
 
 </div>
-
-
 
 ---
 
